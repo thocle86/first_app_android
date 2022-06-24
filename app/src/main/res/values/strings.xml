@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">firstApp</string>
+
+    <!-- ACTIVITY -->
+    <string name="title_activity_movie">Movie detail view</string>
+
+    <!-- HOME -->
+    <string name="title_page">Welcome to you !</string>
+
+    <!-- BREAKING BAD -->
+    <string name="breaking_bad_title">Breaking Bad</string>
+    <string name="breaking_bad_alt">breaking bad poster</string>
+    <string name="breaking_bad_date">From 2008 to 2013</string>
+
+    <!-- THE WALKING DEAD -->
+    <string name="the_walking_dead_title">The Walking Dead</string>
+    <string name="the_walking_dead_alt">the walking dead poster</string>
+    <string name="the_walking_dead_date">From 2010 to - (in progress)</string>
+
+    <!-- BUTTONS -->
+    <string name="search_button">Search</string>
+
+    <!-- MOVIE -->
+    <string name="movie_title">Movie title</string>
+    <string name="movie_release_date">Release date</string>
+    <string name="movie_genres">Genres</string>
+    <string name="movie_synopsis">Synopsis</string>
+    <string name="movie_director">Director</string>
+    <string name="movie_actors">Actors</string>
+    <string name="movie_awards">Awards</string>
+    <string name="movie_see_more">see more</string>
+    <string name="movie_see_less">see less</string>
+    <string name="edit_message">Title of movie</string>
+    <string name="button_movie_search">Search</string>
+</resources>

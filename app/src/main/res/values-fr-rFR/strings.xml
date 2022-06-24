@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">firstApp</string>
+
+    <!-- ACTIVITY -->
+    <string name="title_activity_movie">Vue de détail du film</string>
+
+    <!-- HOME -->
+    <string name="title_page">Bienvenue à toi !</string>
+
+    <!-- BREAKING BAD -->
+    <string name="breaking_bad_title">Breaking Bad</string>
+    <string name="breaking_bad_alt">affiche breaking bad</string>
+    <string name="breaking_bad_date">De 2008 à 2013</string>
+
+    <!-- THE WALKING DEAD -->
+    <string name="the_walking_dead_title">The Walking Dead</string>
+    <string name="the_walking_dead_alt">affiche the walking dead</string>
+    <string name="the_walking_dead_date">De 2010 à - (en cours)</string>
+
+    <!-- BUTTONS -->
+    <string name="search_button">Recherche</string>
+
+    <!-- MOVIE -->
+    <string name="movie_title">Titre du film</string>
+    <string name="movie_release_date">Date de sortie</string>
+    <string name="movie_genres">Genres</string>
+    <string name="movie_synopsis">Résumé</string>
+    <string name="movie_director">Réalisateur</string>
+    <string name="movie_actors">Acteurs</string>
+    <string name="movie_awards">Récompenses</string>
+    <string name="movie_see_more">voir plus</string>
+    <string name="movie_see_less">voir moins</string>
+    <string name="edit_message">Titre de film</string>
+    <string name="button_movie_search">Rechercher</string>
+</resources>
